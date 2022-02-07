@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>116007333724-ik6m8cstsp2f9igpfq7akcon9q5u4d1c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.116007333724-ik6m8cstsp2f9igpfq7akcon9q5u4d1c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvAqkrpq9tdX4blRCQdmfsDa15XI-3PNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116007333724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mekkers.AuthPhoneApp</string>
+	<key>PROJECT_ID</key>
+	<string>rodnik-c2eff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rodnik-c2eff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116007333724:ios:fa4613ca37642564651b99</string>
+</dict>
+</plist>
